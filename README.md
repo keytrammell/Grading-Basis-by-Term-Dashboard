@@ -1,2 +1,6 @@
-# Grading-Basis-by-Term-Dashboard
-I developed a comprehensive project within Excel that required several steps. This project takes a deep dive into all of the courses our students tend to make pass/fail (change the grading basis) and highlights trends that can help us to identify certain patterns. This required me to process data, clean it, and create a visual story. 
+# Grading Basis Changes Amongst Students
+
+## Project Objective:
+Identifying the subjects that have historically been changed to the Satisfactory/Unsatisfactory (pass/fail) grading basis. Identify trends among classes/subjects that have a higher grading basis rate and see if there's a correlation amongst semesters and the year of students. I'll also be identifying the increase of S/U changes that have made from Spring of 2024 to Fall of 2025.  
+                                                                                
+
