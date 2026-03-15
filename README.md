@@ -45,21 +45,13 @@ The solution should -
 
 After viewing this dashboard, the Dean of Student Success should be able to actively identify the top courses that students typically take for S/U. It will give the Dean and her team insights to make informed decisions for the future of student outcomes and the launch of new events/campaigns as well as intervention tactics. It will also help with identifying departments across the university system that they can collaborate with to help with furthering student success. 
 
-## Actions taken and Observations: 
+## Actions taken: 
 
 The first thing I did was clean up my excel data. I deleted all values that weren't needed within columns. I also added in a row so that I could categorize each column. I used CONCAT to allow data to be pulled in from two separate columns, combining them into one. This combined the class name and catalog name into one column making for cleaner data. 
 	
   - After cleaning up all of the S/U data from Spring of 2024 to Fall of 2025, I then formed a few pivot tables in excel to get a count of each class name/number to show exactly how many courses had been changed to S/U. In doing so, it also highlighted which courses had the highest number of changes.
 
   - I then focused on creating some visuals to demonstrate my findings using Excel and Tableau. 
-	
-  - Spring 2024, only 1 S/U change was made.
-	
-  - In Spring of 2025, a total of 19 S/U grading base changes were made. 
-	
-  - In the Fall of 2024, All of the S/U changes were made by freshman. As a whole, 15 students changed their grading basis to S/U. 
-	
-  - In contrast, Fall of 2025 had a total of 55 grading basis changes.  That is an increase of 40 students, a percentage growth of 266.67%.
 
     ## Creating Visuals: 
 
@@ -69,5 +61,16 @@ Using Excel I first filtered through my data to make sure that it was only showi
 
 ## Dashboard
 
+![image alt](https://github.com/keytrammell/Grading-Basis-by-Term-Dashboard/blob/main/Screenshot%202026-03-14%20224729.png?raw=true)
 
+## Conclusion: 
 
+  - Spring 2024, only 1 S/U change was made.
+	
+  - In Spring of 2025, a total of 19 S/U grading base changes were made. 
+	
+  - In the Fall of 2024, All of the S/U changes were made by freshman. As a whole, 15 students changed their grading basis to S/U. 
+	
+  - In contrast, Fall of 2025 had a total of 55 grading basis changes.  That is an increase of 40 students, a percentage growth of 266.67%.
+
+	- A strategic plan with events and intervention focused primarily on Freshman students should be created. Freshman students made up the majority of the grading basis changes. There should be a increased focus on creating events that partner with individuals within the math department, as majority of the students struggles came from Math 111, Math 108, and Math 112. Currently there's no SI for Math 108, but it should be something to consider for the future success of students who take that class. Programming centered around Math department resources should be created at the onset of student orientation, so that students are made aware quite early of what they have available to them on campus. Marketing for these courses should be on a concrete rotational basis as to have hightened awareness for students who may struggle in the future. 
